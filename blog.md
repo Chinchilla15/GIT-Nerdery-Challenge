@@ -17,3 +17,7 @@ Task 2
 ### This is the fourth subtitle
 
 Task 3
+
+## Subtitle with image
+
+<img src="https://s3.amazonaws.com/ravn-blog/2020/03/Logo-1.png" width=600px height=200px>
